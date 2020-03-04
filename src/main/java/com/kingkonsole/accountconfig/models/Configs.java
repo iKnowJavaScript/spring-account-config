@@ -1,4 +1,4 @@
-package com.kingkonsole.accountconfig.model;
+package com.kingkonsole.accountconfig.models;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
